@@ -3,7 +3,8 @@
 This is a repo for a paper related to PV energy production prediction
 
 ### Notes
-Please consider copyright and citation :)
+Please consider the copyright rule and fork the project if you want to develop it further.
+Please also consider citation to our paperwork :)
 
 ```BibTex
 
